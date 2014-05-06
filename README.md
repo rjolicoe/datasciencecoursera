@@ -17,6 +17,6 @@ $ git add README
 
 $ git commit -m 'first commit'
 
-$ git remote add origin https://github.com/rjolicoeur/datasciencecoursera.git
+$ git remote add origin https://github.com/rjolicoe/datasciencecoursera.git
 
 $ git push origin master
