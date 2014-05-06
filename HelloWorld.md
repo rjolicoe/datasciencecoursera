@@ -5,7 +5,7 @@ Data Scientist Coursera Toolkit Coursework assignment
 $ mkdir ~ /Hello-World
 ## This is a markdown file
 
-$cd ~/Hello-World
+$ cd ~/Hello-World
 
 $ git init
 
